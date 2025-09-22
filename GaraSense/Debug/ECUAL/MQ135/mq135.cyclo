@@ -1,0 +1,6 @@
+../ECUAL/MQ135/mq135.c:17:6:MQ135_Init	1
+../ECUAL/MQ135/mq135.c:23:6:MQ135_StartMeasurement	1
+../ECUAL/MQ135/mq135.c:32:6:MQ135_AverageRaw	2
+../ECUAL/MQ135/mq135.c:45:7:MQ135_GetPPM	2
+../ECUAL/MQ135/mq135.c:56:9:MQ135_IsSmokeDetected	1
+../ECUAL/MQ135/mq135.c:62:14:MQ135_GetAirQuality	4

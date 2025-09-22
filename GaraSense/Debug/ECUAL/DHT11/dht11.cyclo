@@ -1,0 +1,5 @@
+../ECUAL/DHT11/dht11.c:14:6:dht11_SetPinOutput	1
+../ECUAL/DHT11/dht11.c:23:6:dht11_SetPinInput	1
+../ECUAL/DHT11/dht11.c:32:6:dht11_Start	4
+../ECUAL/DHT11/dht11.c:43:9:dht11_CheckResponse	7
+../ECUAL/DHT11/dht11.c:69:9:dht11_Read	12

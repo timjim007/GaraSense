@@ -1,0 +1,3 @@
+../Application/Src/ao_display.c:13:13:displayRender	64	static
+../Application/Src/ao_display.c:89:13:DisplayDispatch	40	static
+../Application/Src/ao_display.c:190:6:Display_Init	16	static
