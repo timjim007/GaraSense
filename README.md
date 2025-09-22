@@ -6,7 +6,7 @@ Designed with FreeRTOS and an Active Object (event-driven) architecture for resp
 ---
 
 ##  Demo
-![alt text](Demo/Demo.mp4)
+![alt text](Demo/Demo-gif.gif)
 - More Demo images in Demo/
 ---
 
