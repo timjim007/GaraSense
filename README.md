@@ -96,7 +96,7 @@ This makes it easier to detect memory or scheduling issues during runtime.
 ## Getting Started
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/<timjim007>/<GaraSense>.git
+   git clone https://github.com/timjim007/GaraSense.git
 
 
 2. **Open the Project**  
